@@ -8,3 +8,16 @@ JavaScriptを勉強してWebサイトエンジニアになりたいです
 - 伏見かれん  
 - ちーばくんの目  
 - 得意領域はまだないです  
+
+## Skills
+- OS : Windows  
+- Languages : JavaScript, Java, python  
+- Engine, Frameworks : Node.js, Express  
+- Tool,DB : Git, PostgreSQL, OracleSQL  
+- 資格 : 日商簿記３級  
+
+## Works
+
+## Contact
+
+## History
